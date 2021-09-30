@@ -64,7 +64,7 @@ elif day == "6":
 # if a>b and a>c:
 # 	print("the biggest number: " + str(a))	
 # elif b>a and b>c:
-# 	print("the biggest number: " + str(b))
+# 	print("the biggest number: " + str(b))####3
 # elif c>a and c>b:
 # 	print("the biggest number: " + str(c))
 # else: 
