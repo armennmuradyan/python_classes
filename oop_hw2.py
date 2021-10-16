@@ -27,4 +27,5 @@ class Triangle:
          raise ValueError("These trangles are not equal")
 triangle_0 = Triangle(3, 4, 5)
 triangle_1 = Triangle(5, 4, 3)
+print(triangle_0())
 print(triangle_0 == triangle_1)
