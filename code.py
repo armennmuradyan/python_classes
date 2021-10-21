@@ -5,6 +5,8 @@
 #       self.surname = surname 
 #       self.age = age
 
+
+
 #    def present(self):
 #       return f"hi! my name is {self.name} {self.surname}. I'm {self.age} year old"
 
@@ -17,6 +19,8 @@
 
 #    def present(self):
 #       return f"{self.uni}"
+
+
 
 
 # class EconomyStudent(Student):
@@ -49,4 +53,3 @@
 
 # m_s = MixStudent("id_1100", "Armen", "Muradyan", 16, "Google", "developer", "YSMU")
 # print(m_s.present())
-

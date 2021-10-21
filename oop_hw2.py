@@ -12,6 +12,7 @@ class Triangle:
       area_ = (s*(s-self.side_1)*(s-self.side_2)*(s-self.side_3)) ** 0.5
       return area_
    
+   
    def __call__(self, *args, **kwargs):
       return self.perimeter(), self.area()
    
